@@ -13,3 +13,11 @@ That is a Terraform project with includes python simple "Hello World".
 
 -This is the link to the image inside the docker registery
 https://hub.docker.com/repository/docker/berezovsky8/python
+
+And do not forget to use these commands for terraform:
+
+-terraform init
+
+-terraform plan
+
+-terraform apply

@@ -21,3 +21,5 @@ And do not forget to use these commands for terraform:
 -terraform plan
 
 -terraform apply
+
+***Please don't forget to Disassociate the Elastic IP in order to make the enviorment private***
